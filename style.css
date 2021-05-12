@@ -1,0 +1,11 @@
+footer {
+	text-align: center;
+	background: linear-gradient(#FF4500, #FF8C00, #FFA500, #FFD700);
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
