@@ -31,7 +31,7 @@ ul.menu li a{
 }
 
 h1{
-	margin: 10px;
+	margin: 20px;
 	text-align: center;
 	font-size: 35px;
 	font-family:  Arial, Helvetica, sans-serif;
@@ -46,7 +46,7 @@ p {
 	font-family:  Arial, Helvetica, sans-serif;
 	color:rgb(236, 233, 233);
     width: 20em;
-	margin: 25px 50px 75px;
+	margin: 50px 100px 75px;
 	font-weight: lighter;
 	line-height: 1.6;
 	
@@ -58,7 +58,15 @@ p {
 	max-width: 25%;
 	margin: 30px 50px 75px;
 	position: absolute;
-	left: 60%;
-	top: 52%
+	left: 62%;
+	top: 59%
 	
 }
+
+.container2 img {
+	max-width: 25%;
+	margin: 30px 50px 75px;
+	position: absolute;
+	left: 62%;
+	top: 142%
+}	
