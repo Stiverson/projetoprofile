@@ -26,23 +26,13 @@ h1{
 h2{
     font-style: italic;
     color:black;
+    font-size: 35px;
 }
 
 h3{
     font-style: italic;
     color:black;
-}
-
-h4{
-    font-style: italic;
-    color:black;
-    font-size: 20px;
-}
-
-h5{
-    font-style: italic;
-    color:black;
-    font-size: 20px;
+    font-size: 26px;
 }
 
 b{
@@ -51,4 +41,8 @@ b{
 
 .cursos{
     color: rgb(4, 0, 63);
+}
+
+p{
+    font-size: 18px;
 }
