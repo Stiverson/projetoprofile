@@ -58,4 +58,15 @@ h3{
 
 p{
     font-size: 18px;
+    color:white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
 }
